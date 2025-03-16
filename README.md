@@ -24,3 +24,9 @@ TELEGRAM_TOKEN = "YOUR_TELEGRAM_TOKEN"
 ```
 python botkita.py
 ```
+
+## 📺 Video Tutorial
+
+[![Watch the video](botseira.jpg)](https://youtu.be/koYSyw0KsTk?feature=shared)
+
+
